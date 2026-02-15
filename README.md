@@ -25,4 +25,5 @@ Feel free to **reach out to me** for everything you may need!
 - 🐘 Mastodon: [https://mastodon.uno/@aldomelpignano](https://mastodon.uno/@aldomelpignano)
 
 _I leave you with a random quote._
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
