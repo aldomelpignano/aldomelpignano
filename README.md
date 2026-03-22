@@ -1,6 +1,6 @@
 # **$ whoami**
 
-Hi! I’m an Italian **17-year-old student** exploring the world of **IT and Cybersecurity**. I’m currently learning, experimenting, and building projects to improve my skills.  
+Hi! I’m an Italian **student** exploring the world of **IT and Cybersecurity**. I’m currently learning, experimenting, and building projects to improve my skills.  
 
 > “Learning never exhausts the mind.” – *Leonardo da Vinci*
 
@@ -11,18 +11,19 @@ Hi! I’m an Italian **17-year-old student** exploring the world of **IT and Cyb
 
 ---
 ### 📝 Random Facts about me
-- 🐧 `I run **Fedora** btw.`
-- 📜 `Passionate about **history and politics**.`
-- 🌐 `Big supporter of the **Fediverse** and the free and open Internet.`
-- 🗣️ `I speak **three languages**: Italian, German, and English (learned them besides Italian).`  
-- 📚 `I really enjoy **reading books**.`
+- 🐧 I run **Fedora** btw.
+- 📜 Passionate about **history and politics**.
+- 🌐 Big supporter of the **Fediverse** and the free and open Internet.
+- 🗣️ I speak **three languages**: Italian, German, and English (learned them besides Italian).  
+- 📚 I really enjoy **reading books**.
 
 ---
 ### 📬 Contact Me
 Feel free to **reach out to me** for everything you may need!  
-- 💬 Matrix: `aldomelpignano:matrix.org`  
-- ✉️ Email: `aldomelpignano [at] tutamail [dot] com`  
-- 🐘 Mastodon: [https://mastodon.uno/@aldomelpignano](https://mastodon.uno/@aldomelpignano)
+- 💬 Matrix: `aldo.melpignano:matrix.org`  
+- ✉️ Email: aldomelpignano [at] tutamail [dot] com
+- 📷 Pixelfed: [@aldomelpignano](https://pixelfed.uno/aldomelpignano)
+- 📸 Instagram: [@aldo._.melpignano](https://www.instagram.com/aldo._.melpignano/)
 
 _I leave you with a random quote._
 
